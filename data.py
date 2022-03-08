@@ -1,17 +1,3 @@
-# import pandas as pd
-# import csv
-# df = pd.read_csv("data.csv")
-# print(df.groupby('Gender').mean())
-
-# import plotly.graph_objects as go
-
-# fig = go.Figure(go.Bar(
-#     x = [20, 14, 23],
-#     y = ['Apple', 'Oranges', 'Banana'],
-#     orientation = 'h'))
-
-# fig.show()
-
 import pandas as pd
 import csv
 import plotly
